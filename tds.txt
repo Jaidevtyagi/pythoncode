@@ -1,7 +1,7 @@
 from random import randint,choice
 from time import sleep
 from os import system
-
+#these are the modules to use some builtin functions
 
 n = int(input("\n\n\n\n\t\tEnter number of players : "))
 l = []
